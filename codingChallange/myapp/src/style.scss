@@ -1,0 +1,15 @@
+$color:red;
+$font:cursive;
+.App
+{
+    background-color: aqua;
+    color: brown;
+}
+.nav{
+    background-color: $color;
+    font-family: $font;
+}
+h1{
+    color: $color;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
